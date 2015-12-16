@@ -1,0 +1,28 @@
+.cdc-microsite nav#cdc-microsite-nav {
+	position: relative;
+	right: 3px!important;
+	top: 20px;
+}
+.cdc-microsite nav#cdc-microsite-nav #menu-button a#menu-nav {
+	border: 1px solid #fff;
+}
+.cdc-microsite .row.banner {
+	height: 70px;
+	background-repeat: repeat;
+}
+.cdc-microsite .row.banner a#return {
+	margin-top: 18px;
+}
+.cdc-microsite .module.type-C.scroller ul.link-style-title {
+	height:300px;
+}
+.cdc-microsite .row .col-md-5 {
+	width: 41%!important;
+}
+.cdc-microsite .row .col-md-4 {
+	width: 33%!important;
+}
+.cdc-microsite .pull-right {
+	float: right!important;
+}
+

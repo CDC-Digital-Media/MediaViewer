@@ -1,0 +1,15 @@
+
+.cdc-microsite #cdc-microsite-home-page,
+.cdc-microsite #cdc-microsite-content-page {
+	width: 100%!important;
+}
+
+.cdc-microsite nav#cdc-microsite-nav {
+	position: absolute;
+	top: 28px;
+}
+
+.cdc-microsite .row.banner a#return {
+	margin-top: 18px;
+}
+

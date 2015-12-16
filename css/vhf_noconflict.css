@@ -1,0 +1,155 @@
+
+.cdc-microsite .row {
+	width: 100%!important;
+	margin: 0!important;
+	padding: 0!important;
+}
+.cdc-microsite .row [class^="col-md-"] {
+	display: inline-block!important;
+	background-attachment: inherit!important;
+	margin: 0!important;
+	float: left!important;
+}
+
+
+.cdc-microsite .row.banner {
+	margin-bottom: 20px!important;
+}
+.cdc-microsite #cdc-microsite-home-page .row.banner {
+	min-height: 120px;
+}
+.cdc-microsite #cdc-microsite-home-page .row.banner [class^="col-md-"] {
+	float: none!important;
+	margin-top: 20px!important;
+}
+.cdc-microsite #cdc-microsite-content-page .row.banner {
+	min-height: 70px;
+}
+.cdc-microsite #cdc-microsite-content-page .row.banner .col-md-12 {
+	width: auto;
+	margin-top: 20px!important;
+}
+.cdc-microsite h1 {
+	background-color: transparent;
+}
+
+.cdc-microsite .row.banner h1 {
+	margin: 20px;
+	text-transform: none;
+	background-color: transparent;
+}
+.cdc-microsite .row.banner p {
+	padding: 22px 25px 20px 15px;
+	margin: 0;
+}
+.cdc-microsite .row .col-md-12 {
+	width: 92%!important;
+}
+.cdc-microsite .row.banner .col-md-12 {
+	width: 70%!important;
+}
+.cdc-microsite .row .col-md-6 {
+	width: 50%!important;
+}
+.cdc-microsite .row .col-md-6.right {
+	float: right!important;
+}
+.cdc-microsite .row .col-md-6.left {
+	float: left!important;
+}
+.cdc-microsite .row .col-md-5 {
+	width: 41.6667%!important;
+}
+.cdc-microsite .row .col-md-4 {
+	width: 33.3333%!important;
+}
+.cdc-microsite .row .col-md-3 {
+	width: 25%!important;
+}
+
+@media (min-width: 1200px) {
+	.cdc-microsite .pull-right {
+		float: right!important;
+	}
+}
+
+@media (max-width: 767px) {
+
+	.cdc-microsite .row [class^="col-md-"] {
+		width: 100%!important;
+	}
+	.cdc-microsite .row.banner .col-md-12 {
+		width: 78%!important;
+	}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 979px) {
+
+	.cdc-microsite .row [class^="col-md-"] {
+		width: 100%!important;
+	}
+	.cdc-microsite .row .col-md-12 {
+		width: 90%!important;
+	}
+	.cdc-microsite .pull-right {
+		float: right!important;
+	}
+
+}
+
+.cdc-microsite .row.banner .col-md-12 h1,
+.cdc-microsite .row.banner .col-md-12 p,
+.cdc-microsite .row.banner .col-md-12 a {
+	color: #fff!important;
+}
+
+.cdc-microsite .row.navigation {
+	padding: 9px!important;
+}
+
+.cdc-microsite .module h3 {
+	border: none!important;
+}
+
+.cdc-microsite .module .title {
+	border: none!important;
+	margin: 0!important;
+	padding: 0!important;
+}
+.cdc-microsite .module .title a {
+	font-size: inherit!important;
+	margin: 0!important;
+	padding: 0!important;
+}
+
+.cdc-microsite .link-style-more li div.list-item-content {
+	padding-left: 110px!important;
+}
+
+.cdc-microsite .link-style-title.icons li div.list-item-content {
+	margin: 0 0 0 45px!important;
+}
+.cdc-microsite .link-style-title.icons li div.list-item-content div {
+	margin: 0!important;
+}
+
+.cdc-microsite .module .link-style-more .morelink {
+	float: right!important;
+	clear: left!important;
+	padding: 3px 9px!important;
+	margin: 3px!important;
+	border: 1px solid #0479ae!important;
+}
+
+.cdc-microsite .module.type-C .link-style-title {
+	margin: 1em 6px 1em 18px!important;
+}
+
+.cdc-microsite .module.type-C li:before {
+	top: 1.3em!important;
+}
+.cdc-microsite .module.type-C.scroller h3 {
+	margin-bottom: 0px!important;
+	padding-bottom: 0px!important;
+}

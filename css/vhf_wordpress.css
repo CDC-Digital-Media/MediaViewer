@@ -1,0 +1,35 @@
+
+.cdc-microsite #cdc-microsite-home-page .row .col-sm-6 {
+	width: 50%;
+	float: left;
+}
+.cdc-microsite #cdc-microsite-content-page .row.navigation .col-md-6 {
+	width: 50%;
+}
+.cdc-microsite #cdc-microsite-content-page .row.navigation .col-md-6.left {
+	float: left;
+}
+.cdc-microsite #cdc-microsite-content-page .row.navigation .col-md-6.right {
+	float: right;
+}
+.cdc-microsite #cdc-microsite-content-page .syndicate h1 {
+	margin-bottom: 9px;
+}
+.cdc-microsite #cdc-microsite-content-page .syndicate ul.list-bullet,
+.cdc-microsite #cdc-microsite-content-page .syndicate .module-typeF,
+.cdc-microsite #cdc-microsite-content-page .syndicate .module-typeF ul {
+	display: inline-block;
+}
+#full .cdc-microsite h1 {
+	font-size:20px!important;
+	text-align: left!important;
+}
+#full .cdc-microsite h2 {
+	font-size:16px!important;
+	text-align: left!important;
+}
+#full .cdc-microsite h3 {
+	font-size:14px!important;
+	text-align: left!important;
+}
+
